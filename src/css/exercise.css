@@ -1,0 +1,10 @@
+.exercise{
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+}
+.set_table{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
